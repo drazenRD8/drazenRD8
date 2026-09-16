@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Zdravo, ja sam Dražen
 
-<!--
-**drazenRD8/drazenRD8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python developer iz Srbije. Pravim alate za **OSINT**, **automatizaciju** i **obradu podataka**.
 
-Here are some ideas to get you started:
+## 🛠️ Tehnologije
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📌 Izdvojeni projekti
+
+- 🎓 [**Coursera Inventory Collector**](https://github.com/drazenRD8/coursera-inventory-collector) — API scraping sa checkpointing-om
+- 🕵️ [**OSINT AI Agent**](https://github.com/drazenRD8/osint-ai-agent) — AI agent sa Gemini modelom
+- 🕷️ [**Web Scraper**](https://github.com/drazenRD8/web-scraper) — scraper sa paginacijom
+- 🔐 [**Password Tool**](https://github.com/drazenRD8/password-tool) — generator i provera lozinki
+- 📷 [**Image Metadata Extractor**](https://github.com/drazenRD8/image-metadata-extractor) — EXIF + GPS iz slika
+- 🌍 [**IP Location Finder**](https://github.com/drazenRD8/ip-location-finder) — lokacija IP adrese
+
+## 📊 GitHub statistika
+
+![Stats](https://github-readme-stats.vercel.app/api?username=drazenRD8&show_icons=true&theme=dark)
+
+## 📫 Kontakt
+
+- GitHub: [@drazenRD8](https://github.com/drazenRD8)
